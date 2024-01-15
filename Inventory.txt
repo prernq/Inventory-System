@@ -1,0 +1,11 @@
+Current Inventory:
+
+Product No.		Description		Quantity	Amount Sold	Total Received
+AP001			iPhone 7		19		1		20
+AP002			iPhone 8		9		8		20
+AP003			iPhone 8+		11		6		30
+AP004			iPhone XR		7		9		30
+AP005			iPhone XS		12		14		30
+AP006			iPhone 11		8		12		30
+AP007			iPhone 11 pro		18		2		20
+AP007			iPhone 11 pro		18		2		20
